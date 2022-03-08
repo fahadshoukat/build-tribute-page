@@ -21,3 +21,14 @@ figcaption {
   max-width: 100%;
   height: auto;
 }
+
+ul {
+    width: 40%;
+    text-align: left;
+    margin: auto;
+    line-height: 1.6;
+  }
+  li {
+    padding: 10px
+  }
+  
