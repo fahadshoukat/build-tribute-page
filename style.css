@@ -24,6 +24,9 @@ figcaption {
 
 ul {
     width: 40%;
+}
+
+ul, #summary {
     text-align: left;
     margin: auto;
     line-height: 1.6;
@@ -32,3 +35,6 @@ ul {
     padding: 10px
   }
   
+  #summary {
+      width: 32%;
+  }
