@@ -1,0 +1,23 @@
+#main {
+  background-color: #eeeeee;
+  text-align: center;
+  display: flexbox;
+  padding: 20px;
+}
+
+#img-div {
+  width: 100%;
+  margin: auto;
+  background-color: white;
+}
+
+figcaption {
+  padding: 20px;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
